@@ -110,7 +110,7 @@ class AccountingAnalyzer:
         if self.yszx_df is None:
             raise ValueError("请先调用read_data方法读取预算执行数据")
 
-        logger.info("开始处理预算执行数据...")
+        logger.info("开始处理预算执行数据......")
 
         # 定义指标类型列表
         # 去掉[14]暂存款
