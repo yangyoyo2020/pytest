@@ -17,6 +17,7 @@ class ConfigManager:
     """配置管理类"""
     
     # 默认配置
+    # 去掉[14]暂存款
     DEFAULT_CONFIG = {
         'target_types': ['[21]当年预算', '[22]上年结转（非权责制）', '[23]上年结余（非权责制）'],
         'fund_nature_code': 1,  # 政府预算资金编码
