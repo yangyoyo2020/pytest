@@ -1,0 +1,37 @@
+# Python虚拟环境
+venv/
+env/
+.venv/
+__pycache__/
+
+# 编译文件
+*.pyc
+*.pyo
+*.pyd
+
+# 日志和数据库
+*.log
+*.sqlite
+*.db
+*.spec
+
+# 环境变量
+.env
+.venv
+
+# 打包文件
+dist/
+build/
+*.egg-info/
+.sdist/
+.coverage
+htmlcov/
+
+# IDE和编辑器
+.idea/
+.vscode/
+*.iml
+*.sublime-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints/
