@@ -35,3 +35,8 @@ htmlcov/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
+
+
+*.xlsx
+*.xls
+*.csv
